@@ -11,3 +11,56 @@ earth=#733917
 body {
     background-color:#65768C;
 }
+nav {
+    background-color: #05080D;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+nav a {
+    color: #BF5B04;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+main {
+    padding: 2rem;
+    color: #733917;
+}
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+h2 {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+}
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+footer {
+    background-color:none;
+    color: #BF5B04;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+/* TABLET */
+@media (min-width: 600px) {
+    main {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+}
