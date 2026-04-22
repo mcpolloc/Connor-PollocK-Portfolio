@@ -4,3 +4,4 @@ In this project I made a portfolio to see if anyone wanted to know if I can be a
 http://localhost:52330/index.html
 http://localhost:52330/about.html
 http://localhost:52330/about.html
+https://mcpolloc.github.io/Connor-PollocK-Portfolio/index.html
