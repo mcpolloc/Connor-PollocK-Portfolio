@@ -49,7 +49,7 @@ p {
     margin-bottom: 1rem;
 }
 footer {
-    background-color:none;
+    background-color: transparent;
     color: #BF5B04;
     text-align: center;
     padding: 1rem;
